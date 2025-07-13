@@ -1015,7 +1015,7 @@ Transform:
   m_GameObject: {fileID: 1244886122}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2, y: 0, z: 0}
+  m_LocalPosition: {x: 1, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1554,6 +1554,7 @@ MonoBehaviour:
   friendlySpiritPrefab: {fileID: 1088451786051655814, guid: e4ad5b4cf6910b74292d183d3e76d102, type: 3}
   enemySpiritPrefab: {fileID: 1088451786051655814, guid: e4ad5b4cf6910b74292d183d3e76d102, type: 3}
   turnOrderDisplay: {fileID: 1755373413}
+  battleAnnouncementDisplay: {fileID: 32830231}
 --- !u!4 &2090757656
 Transform:
   m_ObjectHideFlags: 0
